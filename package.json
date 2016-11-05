@@ -1,0 +1,18 @@
+{
+  "name": "dext-nova-theme",
+  "version": "0.1.0",
+  "description": "Dext Nova Theme",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "dext",
+    "dext-theme",
+    "nova",
+    "nova-colors"
+  ],
+  "author": "Vu Tran <vu@vu-tran.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nova-colors": "^2.1.5"
+  }
+}
