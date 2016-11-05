@@ -1,8 +1,8 @@
- # dext-nova-theme
+# dext-nova-theme
 
- > [Nova](http://www.trevordmiller.com/nova/) theme for [Dext](https://github.com/vutran/dext).
+> [Nova](http://www.trevordmiller.com/nova/) theme for [Dext](https://github.com/vutran/dext).
 
- ![](screenshot.png?raw=true)
+![](screenshot.png?raw=true)
 
 ## Install
 
